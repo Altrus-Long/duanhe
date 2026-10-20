@@ -5,4 +5,5 @@
 *.out
 *.tex
 *.synctex.gz
-recordings/*
+recordings/*.wav
+
