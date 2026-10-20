@@ -1,3 +1,8 @@
-pdf/*
-!pdf/*.pdf
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.tex
+*.synctex.gz
 recordings/*
