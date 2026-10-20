@@ -1,6 +1,6 @@
 # 说明文档
 
-## 参考流程手册[Readme.pdf](/pdf/Readme.pdf)
+## 参考流程手册[Readme.pdf](/Readme.pdf)
 
 ## 待办
 
